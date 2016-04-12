@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-//<![CDATA[
 $(document).ready(function() {
     var stickyNavTop = $('#nav').offset().top; 
     var stickyNav = function(){
@@ -21,5 +19,3 @@ $(document).ready(function() {
     dr.src = '//share.donreach.com/buttons.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dr);
   })();
-//]]>
-</script>
